@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+}
+
+#header{
+    font-family: 'Comfortaa', cursive;
+}
+
+#title {
+    margin: 2%;
+}
+
+#image {
+    display: block;
+}
+
+#img-caption{
+    padding-top: 1em;
+}
+
+#tribute-info{
+    margin: 1%;
+    font-size: 1.1em;
+    text-align: justify;
+    word-wrap: normal;
+}
+
+ul{
+    max-width:550px;
+    margin:0 auto;
+    text-align:left;
+}
+li{
+    margin: 10px;
+ }
+
+#footer{
+    text-align: center;
+    padding: 2px;
+    font-family: 'Courier New', Courier, monospace;
+}
